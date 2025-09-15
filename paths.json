@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/haug/eds-citisignal-aem-commerce/:/",
+      "/content/haug/eds-citisignal-aem-commerce/configuration:/.helix/config.json",
+      "/content/haug/eds-citisignal-aem-commerce/metadata:/metadata.json",
+      "/content/haug/eds-citisignal-aem-commerce/configs:/configs.json",
+      "/content/haug/eds-citisignal-aem-commerce/configs-stage:/configs-stage.json",
+      "/content/haug/eds-citisignal-aem-commerce/configs-dev:/configs-dev.json",
+      "/content/haug/eds-citisignal-aem-commerce/redirects:/redirects.json",
+      "/content/haug/eds-citisignal-aem-commerce/placeholders:/placeholders.json",
+      "/content/haug/eds-citisignal-aem-commerce/products/recommended-products:/products/recommended-products.json",
+      "/content/haug/eds-citisignal-aem-commerce/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/haug/eds-citisignal-aem-commerce/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/haug/eds-citisignal-aem-commerce",
       "/content/dam/citisignal/images/products/"
     ]
 }
